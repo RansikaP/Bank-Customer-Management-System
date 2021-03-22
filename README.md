@@ -19,7 +19,7 @@ A successful customer login will lead to the Customer User Interface.<br>
 The customer can deposit/withdraw funds, and do some online purchasing. <br>
 
 <p align="center" style="vertical-align: top; position: relative" >
-<img align="top" style="vertical-align:top" src="https://github.com/rajatKumar2000/COE528-Final-Project/blob/master/images/customer.PNG" width="450"/>
+<img align="top" style="vertical-align:top" src="https://github.com/RansikaP/Bank-Customer-Management-System/blob/master/images/customer.PNG" width="450"/>
 </p>
 
 ## Manager User Interface:
@@ -27,5 +27,5 @@ A successful manager login will lead to the Manager User Interface.<br>
 The manager can add/delete customers. <br>
 
 <p align="center" style="vertical-align: top; position: relative" >
-<img align="top" style="vertical-align:top" src="https://github.com/rajatKumar2000/COE528-Final-Project/blob/master/images/admin.PNG" width="450"/>
+<img align="top" style="vertical-align:top" src="https://github.com/RansikaP/Bank-Customer-Management-System/blob/master/images/manager.PNG" width="450"/>
 </p>
