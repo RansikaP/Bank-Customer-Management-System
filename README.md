@@ -4,7 +4,7 @@ A simple CRUD baking application created for COE528 final project. The project f
 
 #Diagarms
 For a better understanding of the application, here are UML diagrams used in design:
-- [Class diagram](https://htmlpreview.github.io/?https://github.com/rajatKumar2000/COE528-Final-Project/blob/master/images/ClassDiagram.class.violet.html)
+- [Class diagram](https://htmlpreview.github.io/?https://github.com/github.com/RansikaP/Bank-Customer-Management-System/blob/master/image/ClassDiagram.class.violet.html)
 - [Use case diagram](https://htmlpreview.github.io/?https://github.com/rajatKumar2000/COE528-Final-Project/blob/master/images/UseCaseDiagram.ucase.violet.html)
 
 ##Login Interface
