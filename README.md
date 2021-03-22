@@ -11,7 +11,7 @@ For a better understanding of the application, here are UML diagrams used in des
 A person may login as a customer or manager
 
 <p align="center" style="vertical-align: top; position: relative" >
-<img align="top" style="vertical-align:top" src="https://github.com/rajatKumar2000/COE528-Final-Project/blob/master/images/login.PNG" width="450"/>
+<img align="top" style="vertical-align:top" src="https://github.com/RansikaP/Bank-Customer-Management-System/blob/master/images/login.PNG" width="450"/>
 </p>
 
 ## Customer User Interface:
