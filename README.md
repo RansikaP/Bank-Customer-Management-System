@@ -1,6 +1,7 @@
 # Bank-Customer-Management-System
  
-A simple CRUD baking application created for COE528 final project. The project follows OOP design and implementation priciples (inheritance, abstraction, polymorphism, etc.). 
+A simple CRUD baking application created for COE528 final project.<br>
+The project follows OOP design and implementation priciples (inheritance, abstraction, polymorphism, etc.).
 
 # Diagarms
 For a better understanding of the application, here are UML diagrams used in design:
